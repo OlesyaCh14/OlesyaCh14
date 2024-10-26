@@ -15,7 +15,7 @@
   Обладаю базовыми знаниями тестирования и навыками работы.  
   Стремлюсь развиваться в области QA и оттачивать свои навыки.
 
- :mailbox: Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Olesya1812-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
+  Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Olesya1812-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
 
 :hammer_and_wrench: Languages and Tools:
 
