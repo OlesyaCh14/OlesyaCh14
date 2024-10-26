@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xrZmFid3Rmbjgyb2I1Z2NvZzBucGptMWdnNWJvenVyZjRmemdjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xrZmFid3Rmbjgyb2I1Z2NvZzBucGptMWdnNWJvenVyZjRmemdjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Olesya1812">
@@ -8,17 +8,14 @@
   <img src="https://img.shields.io/badge/Mail.ru-blue?logo=mail&logoColor=white&style=for-the-badge" alt="Mail.ru Badge"/>  
    <h1>
   Привет, я Олеся
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=790b7611r2ak1483iwl9vvorr6zucalgivz7m5e4mgqdqch0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=790b7611r2ak1483iwl9vvorr6zucalgivz7m5e4mgqdqch0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70px"/>
 </h1>  
-   :fox_face: Обо мне: Я - тестировщик.
+   :fox_face: Я - тестировщик. 
+   
+  Обладаю базовыми знаниями тестирования и навыками работы.  
+  Стремлюсь развиваться в области QA и оттачивать свои навыки.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
-- :mailbox: Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Olesya1812-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
+ :mailbox: Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Olesya1812-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
 
 :hammer_and_wrench: Languages and Tools:
 
