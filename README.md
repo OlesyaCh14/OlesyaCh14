@@ -31,3 +31,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman"  alt="Postman" width="70" height="70"/>&nbsp;
 
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlesyaCh14&theme=catppuccin-latte&locale=ru)](https://git.io/streak-stats)
