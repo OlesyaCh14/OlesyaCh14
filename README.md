@@ -33,3 +33,10 @@
 
 ### :bar_chart: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlesyaCh14&theme=catppuccin-latte&locale=ru)](https://git.io/streak-stats)
+
+
+### :globe_with_meridians: Записи в блоге:
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
