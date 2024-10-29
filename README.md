@@ -23,7 +23,7 @@
    <h1>
   
 
- :memo:Languages and Tools:
+:memo: Языки и инструменты
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"  alt="Postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub" width="40" height="40"/>&nbsp;
