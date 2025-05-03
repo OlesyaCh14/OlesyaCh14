@@ -7,8 +7,8 @@
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=790b7611r2ak1483iwl9vvorr6zucalgivz7m5e4mgqdqch0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70px"/>
 </h1>  
    :fox_face: Я - тестировщик. 
-   
-    Стремлюсь развиваться в области QA и оттачивать свои навыки.
+
+ 
 
   Я всегда на связи:
   <div id="badges" align="center">
